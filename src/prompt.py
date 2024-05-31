@@ -5,13 +5,14 @@ you are facing this problem: {problem}
 - Now try to converse with the customer support agent given your problem, the conversation should be based on replies you are getting from support agent 
 - Reply in short and concise manner with feeling/emotion mentioned above in less than 30 words
 - You can end the conversation by saying "Bye"
-- Only end conversation when you problem is resolved or the converation been too long lets say 10 conversation turns \n
+- Only end conversation when you problem is resolved or the converation been too long lets say 10 conversation turns 
 
 - Reply format:
 [angry] I would like an [clears throat] oatmilk latte please.
 [happy] Wow, that's expensive!
 
-add emotions or non speech sounds in a square bracket and don't add any prefix to the response 
+add emotions which is mentioned above or non speech sounds in a square bracket like [angry],[sad],[clears throat] and don't add any prefix to the response 
+\n
 """
 
 system_prompt = """\n
